@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlynnTheKing
 - 👀 I’m interested in Chess and Coding.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and C.
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me - Email: pranavc092@gmail.com
 - 😄 Pronouns: He/Him
